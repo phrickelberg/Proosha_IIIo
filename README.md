@@ -25,6 +25,6 @@ Goal of this fork
 Sources
 -------------------------
 
-* Prusa i3 EINSTEIN Rework[github.com] (https://github.com/iamnotachoice/Prusai3_EINSTEIN_Reworked)
+* Prusa i3 EINSTEIN Rework [github.com](https://github.com/iamnotachoice/Prusai3_EINSTEIN_Reworked)
 * Prusa Mendel i3 EiNSTeiN VARIANT issue de [Reprap.org](http://reprap.org/wiki/Prusa_i3_Build_Manual#EiNSTeiN_VARIANT)
 * Extrudeur derive de celui conçu par ch1t0 sur [Thingiverse](http://www.thingiverse.com/thing:76660)

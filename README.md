@@ -9,8 +9,8 @@ The code here is totally work in progress right now, don't just download an buil
 
 
 Building instructions
-
 -------------------------
+
 Not yet available
 
 
@@ -20,7 +20,7 @@ Goal of this fork
 * modifying the x-end idler to more solid, right now the ball-bearing mount it's a predetermined breaking point.
 * modifying the wood frame fins to fit the i3 EINSTEIN Rework y-corners
 * modifying the y-carrier for 3-point leveling AND for triggering the lower y-endstop even if the bed is mounted a few mm higher (i.e. due to leveling screws)
-* figuring out something cool for the "i3" logo that is more universal in terms of milling. The "i3" is too fine for a 3mm tool, so many people seem to just mill "Prusa". If Josef allows it, I'll write Proosha III on it, giving the build a linguistic educational flavor :).
+* if Josef's cool with it, I'll call the fork Proosha IIIo [proosha trio], giving the build a linguistic educational flavor :)
 
 Sources
 -------------------------

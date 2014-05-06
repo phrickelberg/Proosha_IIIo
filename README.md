@@ -1,26 +1,25 @@
 Proosha IIIo
 =========================
 
-Project page not yet available.
-
 This RepRap is available under GPL license.
 
-The code here is totally work in progress right now, don't just download an build without knowing what you do.
+This is basically a Prusa i3 Einstein Rework with minor changes such as:
+
+* wood-style frame with fins
+* stronger x-end-idler
 
 
 Building instructions
 -------------------------
+Just follow the instructions from [the original project page](http://reprap.org/wiki/Prusa_i3_Rework_Introduction/de)
 
-Not yet available
 
-
-Goal of this fork
+Roadmap
 -------------------------
 
-* modifying the x-end idler to more solid, right now the ball-bearing mount it's a predetermined breaking point.
-* modifying the wood frame fins to fit the i3 EINSTEIN Rework y-corners
-* modifying the y-carrier for 3-point leveling AND for triggering the lower y-endstop even if the bed is mounted a few mm higher (i.e. due to leveling screws)
-* if Josef's cool with it, I'll call the fork Proosha IIIo [proosha trio], giving the build a linguistic educational flavor :)
+[x] modifying the x-end idler to more solid, right now the ball-bearing mount it's a predetermined breaking point
+[x] modifying the wood frame fins to fit the i3 EINSTEIN Rework y-corners and 10mm threaded rods
+[] modifying the y-carrier for 3-point leveling AND for triggering the lower y-endstop even if the bed is mounted a few mm higher (i.e. due to leveling screws)
 
 Sources
 -------------------------

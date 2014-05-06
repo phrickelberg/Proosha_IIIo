@@ -17,9 +17,9 @@ Just follow the instructions from [the original project page](http://reprap.org/
 Roadmap
 -------------------------
 
-[x] modifying the x-end idler to more solid, right now the ball-bearing mount it's a predetermined breaking point
-[x] modifying the wood frame fins to fit the i3 EINSTEIN Rework y-corners and 10mm threaded rods
-[] modifying the y-carrier for 3-point leveling AND for triggering the lower y-endstop even if the bed is mounted a few mm higher (i.e. due to leveling screws)
+- [x] modifying the x-end idler to more solid, right now the ball-bearing mount it's a predetermined breaking point
+- [x] modifying the wood frame fins to fit the i3 EINSTEIN Rework y-corners and 10mm threaded rods
+- [] modifying the y-carrier for 3-point leveling AND for triggering the lower y-endstop even if the bed is mounted a few mm higher (i.e. due to leveling screws)
 
 Sources
 -------------------------

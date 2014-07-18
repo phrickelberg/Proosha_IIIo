@@ -24,6 +24,5 @@ Roadmap
 Sources
 -------------------------
 
-* Prusa i3 EINSTEIN Rework [github.com](https://github.com/iamnotachoice/Prusai3_EINSTEIN_Reworked)
-* Prusa Mendel i3 EiNSTeiN VARIANT [Reprap.org](http://reprap.org/wiki/Prusa_i3_Build_Manual#EiNSTeiN_VARIANT)
+* Prusa i3 EINSTEIN Rework Introduction [github.com](http://reprap.org/wiki/Prusa_i3_Rework_Introduction)
 * Extruder parts by ch1t0 [Thingiverse](http://www.thingiverse.com/thing:76660)

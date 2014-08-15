@@ -18,7 +18,7 @@ Instead of the original threaded rod configuration, you need
 * 2x Threaded rod M10x365 mm
 * 2x Threaded rod M10x380 mm
 
-and a few more M10 nuts and washers and two M8 x 20 mm screws.
+and a few more M10 nuts and washers plus two M8 x 20 mm screws.
 
 You also need to tap the printed X-END-IDLER-BETTER.stl twice with a M8 x 1,25 thread. Thats where the two M8 x 20 mm screws go.
 

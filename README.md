@@ -25,4 +25,5 @@ Sources
 -------------------------
 
 * Prusa i3 EINSTEIN Rework Introduction [github.com](http://reprap.org/wiki/Prusa_i3_Rework_Introduction)
-* Extruder parts by ch1t0 [Thingiverse](http://www.thingiverse.com/thing:76660)
+* Extruder-Classic parts by ch1t0 [Thingiverse](http://www.thingiverse.com/thing:76660)
+* Extruder-E3D parts by Mak-a-face [Thingiverse](http://www.thingiverse.com/thing:76660)

@@ -5,9 +5,10 @@ This RepRap is available under GPL license.
 
 This is basically a Prusa i3 Einstein Rework with minor changes such as:
 
-* wood-style frame with fins
-* stronger x-end-idler
-
+* wood-style frame with fins upgraded to fit the Einstein Rework Y-CORNERS
+* stronger X-END-IDLER
+* stronger X-END-MOTOR
+* preconfigured Marlin Firmware
 
 Building instructions
 -------------------------
@@ -24,6 +25,11 @@ You also need to tap the printed X-END-IDLER-BETTER.stl twice with a M8 x 1,25 t
 
 Besides that, just follow the instructions from [the original project page](http://reprap.org/wiki/Prusa_i3_Rework_Introduction/de)
 
+If you want to use the preconfigured Marlin Firmware, please make sure you got your hardware configured as followed:
+* explanation:				{X-AXIS, Y-AXIS, Z-AXIS, EXTRUDER}
+* microstepping:			{1/8, 1/8, 1/4, 1/4}
+* motors step angle:	{1.8, 1.8, 1.8, 1.8}
+* transmission:				{20 teeth GT2, 20 teeth GT2, M5 thread (0.8 mm/rev), hardened steel hobbed bolt + wade gear}
 
 Roadmap
 -------------------------
@@ -36,9 +42,8 @@ Sources
 -------------------------
 
 * Prusa i3 EINSTEIN Rework Introduction [github.com](http://reprap.org/wiki/Prusa_i3_Rework_Introduction)
-<<<<<<< HEAD
 * Extruder-Classic parts by ch1t0 [Thingiverse](http://www.thingiverse.com/thing:76660)
 * Extruder-E3D parts by Mak-a-face [Thingiverse](http://www.thingiverse.com/thing:76660)
-=======
 * Extruder parts by ch1t0 [Thingiverse](http://www.thingiverse.com/thing:76660)
->>>>>>> FETCH_HEAD
+* Marlin Firmware [GitHub](https://github.com/ErikZalm/Marlin)
+

@@ -265,6 +265,17 @@ static void lcd_main_menu()
 {
     START_MENU();
     MENU_ITEM(back, MSG_WATCH, lcd_status_screen);
+    MENU_ITEM(gcode, MSG_AUTO_HOME, PSTR("G28"));
+    MENU_ITEM(submenu, MSG_TEMPERATURE, lcd_control_temperature_menu);
+    MENU_ITEM(submenu, MSG_MOVE_AXIS, lcd_move_menu);
+    if (card.cardOK)
+    {
+        if (card.isFileOpen())
+        {
+        }else{
+            MENU_ITEM(submenu, MSG_CARD_MENU, lcd_sdcard_menu);
+        }
+    }
     if (movesplanned() || IS_SD_PRINTING)
     {
         MENU_ITEM(submenu, MSG_TUNE, lcd_tune_menu);
